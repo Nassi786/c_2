@@ -24,10 +24,7 @@ Each page is linked together using anchor tags for seamless navigation.
 - Styled using a separate `style.css` file
 - Mobile-responsive and accessible
  [📸Screenshot of Resume website]
-
-![Screenshot 2025-04-19 201415](https://github.com/user-attachments/assets/9917c62d-a1f6-41ff-aecd-43d8ba209d06)
-
-> Add a screenshot here of your website home page if possible.
+![Screenshot 2025-04-21 231655](https://github.com/user-attachments/assets/367203ea-2d88-46ed-b74d-1efc5b1210a9)
 
  🛠️ How to Run
 
